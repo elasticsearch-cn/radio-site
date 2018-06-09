@@ -1937,6 +1937,12 @@ nav a {
   }
 }
 
+@media (min-width: 768px) {
+  nav a {
+    font-size: 14px;
+  }
+}
+
 nav a:hover {
   color: #fff;
 }
